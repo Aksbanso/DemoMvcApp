@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1PV26vZeYIwQyp3UqQ1pgj5Yr+VRP8cdM9r6ODOnTbvyHwiH7jhzt/i+kbKQ7b89L+CZVlfi7mjSrYDkQyAEQA==",
+  "dgSpecHash": "nnnTInNKdfy14BEQtf5nLmdDxrKyoRzn7miCGluP53AqJndITC/LTIh8v+pteGQ6odk9tkMw4POIkFevpuA+7Q==",
   "success": true,
-  "projectFilePath": "C:\\MVCDemo\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
+  "projectFilePath": "C:\\Users\\aksbanso\\Documents\\GitHub\\DemoMvcApp\\MVCDemoApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

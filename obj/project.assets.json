@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MVCDemo\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
+      "projectUniqueName": "C:\\Users\\aksbanso\\Documents\\GitHub\\DemoMvcApp\\MVCDemoApp.csproj",
       "projectName": "MVCDemoApp",
-      "projectPath": "C:\\MVCDemo\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
+      "projectPath": "C:\\Users\\aksbanso\\Documents\\GitHub\\DemoMvcApp\\MVCDemoApp.csproj",
       "packagesPath": "C:\\Users\\aksbanso\\.nuget\\packages\\",
-      "outputPath": "C:\\MVCDemo\\mvcdemo\\MVCDemoApp\\obj\\",
+      "outputPath": "C:\\Users\\aksbanso\\Documents\\GitHub\\DemoMvcApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aksbanso\\AppData\\Roaming\\NuGet\\NuGet.Config"
